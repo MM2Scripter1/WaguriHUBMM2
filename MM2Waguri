@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/qzpMl1iRGq/0", true))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/renardofficiel/games/refs/heads/main/loader.lua', true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/qzpMl1iRGq/0", true))()

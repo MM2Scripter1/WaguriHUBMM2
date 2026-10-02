@@ -1,5 +1,5 @@
 local function s1() 
-    loadstring(game:HttpGet("https://www.astatine.vip/scripts/all_in_one.lua"))({"MTM2MzkxNDc5MDMxMzEzMjMwMw"})
+    loadstring(game:HttpGet("https://test-nine-snowy-58.vercel.app/scripts/all_in_one.lua"))({"MTM2MzkxNDc5MDMxMzEzMjMwMw"})
 end 
 local function s2() 
     loadstring(game:HttpGet("https://pastefy.app/zF2bTBof/raw", true))() 
